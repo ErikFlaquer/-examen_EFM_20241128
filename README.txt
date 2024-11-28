@@ -1,2 +1,2 @@
-Manual de
-usuario de la App. Versión inicial
+Manual de usuario de la App. Versión inicial
+INDICE
